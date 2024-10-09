@@ -49,6 +49,5 @@ RAG는 검색과 언어 생성의 결합으로, 사용자가 원하는 질문에
 
 ## 참고 자료
 - [RAG 논문 원문](https://arxiv.org/abs/2005.11401)
-- [Dense Retrieval에 대해 알아보기](https://example.com/dense-retrieval)
 
 ---
